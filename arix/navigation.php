@@ -3,16 +3,16 @@
 return [
     'search' => '搜尋',
     'search-term' => '搜尋字詞',
-    'enter-name-uuid-allocation' => '輸入名稱、UUID 或分配來搜尋。',
+    'enter-name-uuid-allocation' => '輸入名稱、UUID 或位址來搜尋。',
     'at-least-three-characters' => '請輸入至少三個字以開始搜尋。',
     'select-a-server' => '選擇一個伺服器',
-    'no-servers' => '無結果。',
+    'no-servers' => '沒有找到伺服器。',
     'supportcenter' => '支援中心',
 
     'servers' => '伺服器',
-    'account' => '帳號',
+    'account' => '我的帳號',
     'dashboard' => '控制面板',
-    'console' => '主控台',
+    'console' => '控制台',
     'settings' => '設定',
     'activity' => '活動紀錄',
     'files' => '檔案管理',
@@ -31,7 +31,7 @@ return [
     'account-overview' => '帳號概覽',
     'admin-area' => '管理區域',
     'account-activity' => '帳號活動',
-    'dark-light-mode' => '淺 / 深色模式切換',
+    'dark-light-mode' => '主題顏色',
     'logout' => '登出',
 
 ];
