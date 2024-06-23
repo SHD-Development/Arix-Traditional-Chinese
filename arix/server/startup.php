@@ -1,11 +1,11 @@
 <?php
 
 return [
-    'startup-settings' => 'Startup Settings',
-    'startup-command' => 'Startup Command',
+    'startup-settings' => '啟動設定',
+    'startup-command' => '啟動指令',
     'docker-image' => 'Docker Image',
-    'read-only' => 'Read Only',
-    'select-docker-feature' => 'This is an advanced feature allowing you to select a Docker image to use when running this server instance.',
-    'custom-docker-image' => 'This {"server\'s"} Docker image has been manually set by an administrator and cannot be changed through this UI.',
-    'variables' => 'Variables'
+    'read-only' => '唯讀',
+    'select-docker-feature' => '選擇你要用來執行伺服器的Docker Image',
+    'custom-docker-image' => '這個伺服器使用的Docker Image已經被管理員手動設定，無法透過這個介面更改',
+    'variables' => '變數'
 ];
