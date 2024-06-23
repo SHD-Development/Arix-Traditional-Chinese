@@ -1,7 +1,7 @@
 <?php
 
 return [
-    'account-overview' => '帳號總覽',
+    'account-overview' => '帳號概覽',
     'twofactor-messagebox' => '你的帳號需要啟用兩步驟驗證來繼續。',
     'apikey' => 'API 金鑰',
     'sshkey' => 'SSH 金鑰',
