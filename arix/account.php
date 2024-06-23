@@ -23,8 +23,8 @@ return [
 
     'appearance' => [
         'title' => '外觀',
-        'lightDarkMode' => '亮 / 深色模式切換',
-        'light' => '亮色主題',
+        'lightDarkMode' => '淺 / 深色模式切換',
+        'light' => '淺色主題',
         'dark' => '深色主題',
         'language' => '面板語言',
         'panel-sounds' => '面板音效',
@@ -36,7 +36,7 @@ return [
         'title' => '兩步驟驗證',
         'isEnabled' => '你的帳號已經啟用了兩步驟驗證。',
         'isDisabled' => '你的帳號還未啟用兩步驟驗證，點擊下方按鈕開始使用來增加安全性！',
-        'disable' => '禁用兩步驟驗證',
+        'disable' => '停用兩步驟驗證',
         'enable' => '啟用兩步驟驗證',
         
         'disable-dialog' => [
