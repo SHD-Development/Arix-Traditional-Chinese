@@ -1,9 +1,9 @@
 <?php
 
 return [
-    'console' => 'Console',
-    'node-under-maintenance' => 'The node of this server is currently under maintenance and all actions are unavailable.',
-    'running-installation-process' => 'This server is currently running its installation process and most actions are unavailable.',
-    'being-transferred' => 'This server is currently being transferred to another node and all actions are unavailable.',
-    'type-a-command' => 'Type a command...',
+    'console' => '控制台',
+    'node-under-maintenance' => '這個伺服器所在的節點正在維護，無法進行任何操作',
+    'running-installation-process' => '這個伺服器正在執行安裝腳本，無法進行大部分的操作',
+    'being-transferred' => '這個伺服器正在轉移到其他節點，無法進行任何操作',
+    'type-a-command' => '打個指令...',
 ];
