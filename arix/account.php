@@ -9,7 +9,7 @@ return [
     'update-password' => [
         'current' => '目前密碼',
         'new' => '新的密碼',
-        'requirements' => '您的密碼應該要至少 8 個字並且應與其他網站不同。',
+        'requirements' => '您的密碼應該要至少 8 個字，並且應與其他網站不同。',
         'confirm' => '確認密碼',
         'update' => '更改密碼',
     ],
@@ -35,7 +35,7 @@ return [
     'twofactor' => [
         'title' => '兩步驟驗證',
         'isEnabled' => '您的帳號已經啟用了兩步驟驗證。',
-        'isDisabled' => '您的帳號還未啟用兩步驟驗證，點擊下方按鈕開始使用來增加安全性！',
+        'isDisabled' => '您的帳號還未啟用兩步驟驗證，點擊下方按鈕開始使用來增加安全性。',
         'disable' => '停用兩步驟驗證',
         'enable' => '啟用兩步驟驗證',
         
@@ -60,7 +60,7 @@ return [
         'label' => '描述',
         'description' => '此 API 金鑰的描述。',
         'allowedIPs-label' => '允許的 IP',
-        'allowedIPs-description' => '留空來讓任何 IP 都可以使用這個 API 金鑰，每行輸入一個 IP 地址。',
+        'allowedIPs-description' => '留空以讓任何 IP 都可以使用這個 API 金鑰，每行輸入一個 IP 地址。',
         'createButton' => '創建',
 
         'your-keys' => '您的 API 金鑰',
