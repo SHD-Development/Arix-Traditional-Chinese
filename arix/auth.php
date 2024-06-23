@@ -17,7 +17,7 @@ return [
     'forgot' => [
         'title' => '忘記密碼',
         'email' => '電子郵件',
-        'email-description' => '輸入你的電子郵件以重設你的密碼。',
+        'email-description' => '輸入您的電子郵件以重設你的密碼。',
         'send-email' => '發送電子郵件',
         'return-to-login' => '返回登入',
 
@@ -36,8 +36,8 @@ return [
 
         'return-to-login' => '返回登入',
 
-        'enter-one-of-recovery-codes' => '輸入你的恢復碼之一。',
-        'enter-two-factor' => '輸入你的兩步驟驗證應用程式生成的 6 碼驗證碼',
+        'enter-one-of-recovery-codes' => '輸入您的恢復碼之一。',
+        'enter-two-factor' => '輸入您的兩步驟驗證應用程式生成的 6 碼驗證碼',
     ],
 
     'reset' => [
