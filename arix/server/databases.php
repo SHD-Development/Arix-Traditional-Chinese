@@ -11,7 +11,7 @@ return [
     'details' => '內容',
     'connection-from' => '連線自 ',
     'password' => '密碼',
-    'connection-string' => 'JDBC連線字串',
+    'connection-string' => 'JDBC 連線字串',
     'database-connection-details' => '資料庫連線資訊',
     'no-databases' => '看起來你沒有資料庫可以使用',
     'cannot-be-created' => '看起來這伺服器創不了資料庫',
@@ -29,7 +29,7 @@ return [
     'create' => [
         'title' => '創建新資料庫',
         'name' => '資料庫名稱',
-        'name-description' => '資料庫的名字，你看得懂就好',
+        'name-description' => '資料庫的名字，僅供識別用途',
         'connection-from' => '可從哪裡連線',
         'connection-from-description' => '應該允許連線的地方，留空以允許所有地方連線',
         'cancel' => '取消',

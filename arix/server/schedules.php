@@ -19,7 +19,7 @@ return [
     'never' => '永不',
 
     'no-schedules' => '這伺服器沒有設定排程',
-    'ignore-files-folders' => '跳過檔案/資料夾',
+    'ignore-files-folders' => '跳過檔案 / 資料夾',
     'continues-on-failure' => '於失敗時繼續執行',
     'later' => '稍後',
 
@@ -84,7 +84,7 @@ return [
         'offset-description' => '在前一個任務執行後值行此任務之前等待的時間。如果這是排程中的第一個任務，則不會套用此設定',
         'payload' => '負載',
         'ignored-files' => '跳過的檔案',
-        'ignored-files-description' => '選填。在這裡輸入的檔案/資料夾將會被排除在備份任務創建的備份之外，預設將會使用/home/container/.pteroignore檔案內的排除列表。如果到了備份上限，最舊的備份將會被刪除',
+        'ignored-files-description' => '選填。在這裡輸入的檔案 / 資料夾將會被排除在備份任務創建的備份之外，預設將會使用 "/home/container/.pteroignore" 檔案內的排除列表。如果到了備份上限，最舊的備份將會被刪除',
         'start-server' => '啟動伺服器',
         'stop-server' => '停止伺服器',
         'restart-server' => '重啟伺服器',

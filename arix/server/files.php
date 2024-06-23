@@ -36,14 +36,14 @@ return [
     'file-name' => '檔案名稱',
     'file-name-description' => '輸入要創建的檔案名稱',
     'directory-will-be-as' => '這個資料夾會被創建在 ',
-    'rename-description' => '輸入這個檔案/資料夾的新名稱，可使用相對於這個資料夾的相對路徑',
+    'rename-description' => '輸入這個檔案 / 資料夾的新名稱，可使用相對於這個資料夾的相對路徑',
     'new-location' => '新的位置',
     'drag-and-drop' => '把檔案拉到這裡來上傳',
 
     'edit' => [
         'youre-editing' => '你正在編輯 ',
-        'will-be-exluded' => '，所有在這裡列出的檔案/資料夾都不會被備份，使用"*"可使用通用符號',
-        'you-can-negate' => '你可以在前面加上"!"來取消此規則',
+        'will-be-exluded' => '，所有在這裡列出的檔案 / 資料夾都不會被備份，使用 "*" 可使用通用符號',
+        'you-can-negate' => '你可以在前面加上 "!" 來取消此規則',
         'save-content' => '儲存檔案',
         'create-file' => '創建檔案',
     ],
