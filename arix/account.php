@@ -16,7 +16,7 @@ return [
 
     'update-email' => [
         'isUpdated' => '你的主要電子郵件已被更改。',
-        'update' => '更改密碼',
+        'update' => '更改電子郵件',
         'email' => '電子郵件',
         'confirm' => '確認密碼',
     ],
