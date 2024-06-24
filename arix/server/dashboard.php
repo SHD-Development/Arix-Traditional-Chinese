@@ -7,7 +7,7 @@ return [
         'title' => 'SFTP 連線資訊',
         'server-address' => '伺服器地址',
         'username' => '使用者名稱',
-        'description' => '你的 SFTP 密碼跟你的面板密碼一樣',
+        'description' => '您的 SFTP 密碼即為您的面板密碼',
         'launch-sftp' => '啟動 SFTP',
     ],
     'server-info' => [

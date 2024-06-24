@@ -12,13 +12,13 @@ return [
     'inactive' => '停用',
     'processing' => '執行中',
     'manage-schedule' => '管理排程',
-    'new-task' => '新工作',
+    'new-task' => '新任務',
     'run-now' => '現在執行',
     'editBtn' => '編輯',
     'n/a' => 'N/A',
     'never' => '永不',
 
-    'no-schedules' => '這伺服器沒有設定排程',
+    'no-schedules' => '此伺服器沒有設定排程',
     'ignore-files-folders' => '跳過檔案 / 資料夾',
     'continues-on-failure' => '於失敗時繼續執行',
     'later' => '稍後',
@@ -27,18 +27,18 @@ return [
     'hour' => '小時',
     'day' => '天',
     'week' => '禮拜',
-    'day-of-month' => '一個月中的哪一天',
+    'day-of-month' => '一個月中的某一天',
     'month' => '月',
-    'day-of-week' => '一個禮拜中的哪一天',
+    'day-of-week' => '一個星期中的某一天',
 
     'deleteTask' => [
-        'title' => '確認刪除工作',
-        'description' => '你確定要刪除這個工作嗎，這個操作無法恢復',
-        'delete' => '刪除工作'
+        'title' => '確認刪除任務',
+        'description' => '您確定要刪除此任務嗎，此操作無法恢復',
+        'delete' => '刪除任務'
     ],
     'delete' => [
         'title' => '刪除排程',
-        'description' => '所有工作都會被移除，執行中的工作將會被停止',
+        'description' => '所有任務都會被移除，執行中的任務將會被停止',
         'delete' => '刪除'
     ],
     'edit' => [
@@ -48,9 +48,9 @@ return [
         'description' => '排程系統支援使用 Cronjob 格式來決定排程應該在什麼時候執行，使用上方的格子來決定排程應該在何時執行',
         
         'name' => '排程名稱',
-        'name-description' => '打你看得懂的東西就好',
-        'cheatsheet' => '顯示快速參考指令表',
-        'cheatsheet-description' => '顯示一些 cron cheatsheet 的範例',
+        'name-description' => '排程說明',
+        'cheatsheet' => '顯示參考指令表',
+        'cheatsheet-description' => '顯示一些 Cronjob 指令的範例',
         'online-when-online' => '僅在伺服器在線上時執行',
         'online-when-online-description' => '僅會在伺服器狀態為 執行中 的時候執行此排程',
         'enabled' => '排程已啟用',
@@ -64,7 +64,7 @@ return [
         'every-hour' => '每個小時',
         'hour-range' => '小時範圍',
         'once-a-day' => '一天一次',
-        'every-monday' => '每個禮拜一',
+        'every-monday' => '每個星期一',
         'special-characters' => '特殊符號',
         'any-value' => '任何值',
         'value-list-separator' => '值列表分隔符號',
