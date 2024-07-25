@@ -7,7 +7,7 @@ return [
         'title' => 'SFTP 連線資訊',
         'server-address' => '伺服器地址',
         'username' => '使用者名稱',
-        'description' => '你的 SFTP 密碼跟你的面板密碼一樣',
+        'description' => '您的 SFTP 密碼與面板密碼相同。',
         'launch-sftp' => '啟動 SFTP',
     ],
 
@@ -26,11 +26,11 @@ return [
 
     'reinstall' => [
         'title' => '重新安裝伺服器',
-        'reinstall-started' => '你的伺服器已經開始重新安裝',
-        'confirm-reinstallation' => '確認重裝伺服器',
+        'reinstall-started' => '您的伺服器已開始重新安裝',
+        'confirm-reinstallation' => '確認重新安裝伺服器',
         'yes-reinstall' => '是，重新安裝',
-        'are-you-sure' => '你的伺服器將會被停止，且部分檔案將會被編輯或刪除，你確定要繼續嗎?',
-        'desc-1' => '重新安裝伺服器會停止你的伺服器，並重新執行安裝腳本',
+        'are-you-sure' => '您的伺服器將會停止，且部分檔案會被編輯或刪除，您確定要繼續嗎？',
+        'desc-1' => '重新安裝伺服器會停止您的伺服器，並執行安裝腳本',
         'desc-2' => '部分檔案將會被編輯或刪除，請在重新安裝之前備份檔案',
         'reinstall-server' => '重新安裝伺服器',
     ],

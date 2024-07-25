@@ -17,9 +17,9 @@ return [
     'update' => '更新',
     'file-mode' => '檔案模式',
     'you-cant-recover' => '刪除 ',
-    'once-deleted' => ' 之後，你將無法恢復檔案內容',
+    'once-deleted' => ' 之後，您將無法恢復檔案內容',
     'delete-files' => '刪除檔案',
-    'are-you-sure' => '你確定要刪除嗎',
+    'are-you-sure' => '您確定要刪除嗎',
     'this-is-permanent-action' => '這是永久性操作，檔案將無法恢復',
     'name' => '名稱',
     'size' => '大小',
@@ -41,9 +41,9 @@ return [
     'drag-and-drop' => '把檔案拉到這裡來上傳',
 
     'edit' => [
-        'youre-editing' => '你正在編輯 ',
+        'youre-editing' => '您正在編輯 ',
         'will-be-exluded' => '，所有在這裡列出的檔案 / 資料夾都不會被備份，使用 "*" 可使用通用符號',
-        'you-can-negate' => '你可以在前面加上 "!" 來取消此規則',
+        'you-can-negate' => '您可以在前面加上 "!" 來取消此規則',
         'save-content' => '儲存檔案',
         'create-file' => '創建檔案',
     ],

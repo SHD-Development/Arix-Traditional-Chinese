@@ -13,7 +13,7 @@ return [
     'password' => '密碼',
     'connection-string' => 'JDBC 連線字串',
     'database-connection-details' => '資料庫連線資訊',
-    'no-databases' => '看起來你沒有資料庫可以使用',
+    'no-databases' => '看起來您沒有資料庫可以使用',
     'cannot-be-created' => '看起來這伺服器創不了資料庫',
     'confirm-deletion' => '確認刪除資料庫',
     'delete-description-1' => '刪除資料庫是永久操作且不可回復，這將會永久刪除 ',

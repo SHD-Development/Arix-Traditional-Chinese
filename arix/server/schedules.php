@@ -1,4 +1,4 @@
-<?php 
+<?php
 
 return [
     'schedules' => '排程',
@@ -33,7 +33,7 @@ return [
 
     'deleteTask' => [
         'title' => '確認刪除工作',
-        'description' => '你確定要刪除這個工作嗎，這個操作無法恢復',
+        'description' => '您確定要刪除這個工作嗎，這個操作無法恢復',
         'delete' => '刪除工作'
     ],
     'delete' => [
@@ -46,9 +46,9 @@ return [
         'title-2' => '創建排程',
 
         'description' => '排程系統支援使用 Cronjob 格式來決定排程應該在什麼時候執行，使用上方的格子來決定排程應該在何時執行',
-        
+
         'name' => '排程名稱',
-        'name-description' => '打你看得懂的東西就好',
+        'name-description' => '打您看得懂的東西就好',
         'cheatsheet' => '顯示快速參考指令表',
         'cheatsheet-description' => '顯示一些 cron cheatsheet 的範例',
         'online-when-online' => '僅在伺服器在線上時執行',

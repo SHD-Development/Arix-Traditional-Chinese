@@ -1,6 +1,6 @@
 <?php
 
-return[
+return [
     'network' => '網路',
     'manage-allocation' => '管理通訊埠',
     'create-allocation' => '創建通訊埠',
@@ -13,6 +13,6 @@ return[
     'make-primary' => '設為主要',
 
     'remove-allocation' => '移除通訊埠',
-    'remove-allocation-description' => '這個通訊埠將會從你的伺服器上移除',
+    'remove-allocation-description' => '這個通訊埠將會從您的伺服器上移除',
     'delete' => '刪除'
 ];
